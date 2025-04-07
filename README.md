@@ -12,12 +12,4 @@
   />
 </a>
 
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=banbakbulga)
-
-<br/>
-
-![stats](https://github-readme-stats-psi-one-13.vercel.app/api/top-langs/?username=banbakbulga)
-
 </div>
